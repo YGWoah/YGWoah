@@ -1,20 +1,14 @@
 # 💫 About Me:
-my real name is Hamza,Engineering Student in Software and Distributed Computing Systems @ENSET Mohammedia ,i like building web application. 
+👋 Hi, I'm Hamza<br><br>🎓 Engineering Student in Software and Distributed Computing Systems @ENSET Mohammedia<br><br>💻 Full-Stack Web Developer with a passion for building innovative applications<br><br>🚀 Skilled in:<br>  • React.js<br>  • React Native<br>  • Next.js<br>  • Spring boot<br><br><br>🌱 Always learning and exploring new technologies in software development<br><br>📚 Focusing on creating efficient and scalable web and mobile solutions<br><br>🔗 Open to collaborations and exciting projects in web development<br><br>📫 Let's connect and build something amazing together!
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yg_woah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-massoudi-29a558235/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-el-massoudi-29a558235/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/7amza_7Z7) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YGWoah&theme=dark&hide_border=true&include_all_commits=true&count_private=)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YGWoah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YGWoah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YGWoah&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ygwoah&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- see if i can commit this -->
